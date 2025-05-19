@@ -37,7 +37,6 @@ const Navbar = () => {
                   onClick={() => navigate("/my-profile")}
                   className="hover:text-black cursor-pointer"
                 >
-                  {" "}
                   My Profile
                 </p>
                 <p

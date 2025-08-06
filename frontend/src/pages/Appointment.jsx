@@ -142,6 +142,9 @@ const Appointment = () => {
                 </p>
               ))}
           </div>
+          <button className="bg-[#5f6FFF] text-white text-sm font-light px-14 py-3 rounded-full my-6">
+            Book an appointment
+          </button>
         </div>
       </div>
     )
